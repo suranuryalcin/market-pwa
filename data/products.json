@@ -1,0 +1,42 @@
+[
+  {
+    "barcode": "8690632041827",
+    "name": "Toz Kahve",
+    "brand": "Nescafe",
+    "category": "Gıda",
+    "price": 15.00,
+    "unit": "10 gram"
+  },
+  {
+    "barcode": "4015000090940",
+    "name": "Stick Yapıştırıcı",
+    "brand": "Pritt",
+    "category": "Kırtasiye",
+    "price": 80.00,
+    "unit": "43 gram"
+  },
+  {
+    "barcode": "8690857011964",
+    "name": "10 Numara Zımba Teli",
+    "brand": "3A",
+    "category": "Kırtasiye",
+    "price": 35.00,
+    "unit": "1000 adet"
+  },
+  {
+    "barcode": "8690000000006",
+    "name": "Kurşun Kalem",
+    "brand": "Faber-Castell",
+    "category": "Kırtasiye",
+    "price": 12.50,
+    "unit": "1 Adet"
+  },
+  {
+    "barcode": "8690000000007",
+    "name": "Sıvı El Sabunu",
+    "brand": "Duru",
+    "category": "Temizlik",
+    "price": 42.00,
+    "unit": "500 ml"
+  }
+]
